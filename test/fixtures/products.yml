@@ -11,3 +11,9 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+
+product_from_stand:
+  title: Title1
+  description: Description of my test Product from fixtures
+  image_url: picture.jpg
+  price: 105.00
